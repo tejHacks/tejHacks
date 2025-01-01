@@ -15,6 +15,8 @@
 - Advanced Laravel features.  
 - Exploring JavaScript frameworks like React.
 - Building apps in Flutter
+- How to tinker the more with Linux distros(as many as possible too),I don't use Arch btw 🤝
+- Building Linux scripts for automation and scripts for Penetration testing
 
 💬 **Ask me about:**  
 - Backend development with PHP and Laravel.  
@@ -23,7 +25,7 @@
 - Open Source Tips and How tos
 
 ⚡ **Fun fact:**  
-- I’m a tech enthusiast who writes poems and raps for fun! 🎤
+- I’m a tech enthusiast who writes poems and loves to share my knowledge and learn from others too! 🎤
 
 --- I also love to read stuff on Linux, JavaScript during my free time too
 
