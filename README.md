@@ -15,7 +15,7 @@ I believe in **craftsmanship over shortcuts**: writing clean, testable, and main
 
 ## 🚀 What I’m Building / Exploring
 
-* 🍼 **[MamaCare](#)** → a platform focused on maternal care (an AI powered platform focused on maternal healthcarefull-stack project).
+* 🍼 **[MamaCare](https://mamacare-ai-app.netlify.app/)** → a platform focused on maternal care (an AI powered platform focused on maternal healthcarefull-stack project).
 * 🖥️ **BashBase** → a “learn CLI for devs” tool to help beginners master the shell.
 * ⚡ **Learning React Native** → bringing my skills to mobile app development.
 * 🛠 **Backend polish** → scaling Laravel apps, securing APIs, and tuning DB performance.
