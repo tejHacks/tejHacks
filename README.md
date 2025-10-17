@@ -1,15 +1,16 @@
 
-# 👨‍💻 Olateju Olamide | Software Engineer | Backend & Full-Stack Builder
+# Olateju Olamide — Full‑Stack Software Engineer 👨‍💻
 
 > “I don’t just write code — I **design systems**, solve problems, and ship ideas that scale.”
 
 ---
 
-## 💫 About Me
+##  About Me
 
-I’m **Olateju Olamide** a Software Engineer with a strong **backend foundation (PHP/Laravel, Node.js)**, growing chops in **React & TypeScript**, and a love for **Linux-powered development**.
+I’m Olateju Olamide — a pragmatic software engineer with a solid backend foundation (PHP / Laravel, Node.js) and growing expertise in modern frontends (React + TypeScript). I build end-to-end products: APIs, web frontends, CLI tools, and deployable systems that are maintainable and production-ready.
 
-I believe in **craftsmanship over shortcuts**: writing clean, testable, and maintainable code while staying curious about new stacks. Whether it’s **web apps, APIs, or CLI tools**, I enjoy taking projects from idea → design → deployment.
+I value craftsmanship: clean, testable code, deliberate architecture, and reliable deployments.
+
 
 ---
 
