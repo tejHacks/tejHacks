@@ -1,89 +1,115 @@
 <div align="center">
-  
-# 👨🏽‍💻 Olateju Olamide — Full-Stack & Mobile Developer 🚀  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+🌍;Mobile+Developer+📱;Building+React%2C+Next.js%2C+and+React+Native+Apps;Clean+Code+%7C+Creative+Systems+%7C+Modern+UI;Consistency+Over+Chaos+💪🏽)](https://git.io/typing-svg)
+# 👨🏽‍💻 Olateju Olamide — Mobile Engineer 📱
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&vCenter=true&width=550&lines=Mobile+Engineer+📱;React+Native+%7C+TypeScript+Developer;Building+Intelligent+Mobile+Experiences;AI+%2B+Mobile+Systems;Clean+Architecture+%7C+Scalable+Apps)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👋 About Me  
+## 👋 About Me
 
-I’m **Olateju Olamide**, a **Full-Stack & Mobile Developer** passionate about crafting web and mobile products that are elegant, fast, and scalable.  
+I’m **Olateju Olamide**, a **Mobile Engineer** focused on building high-quality, scalable mobile applications.
 
-I specialize in **React**, **Next.js**, **TypeScript**, and **React Native**, backed by a touch of **Laravel** and **Node.js** to build complete, production-ready systems.  
+My primary focus is **React Native and TypeScript**, where I build cross-platform apps with clean architecture, strong performance, and maintainable systems.
 
-I care about **clean architecture**, **maintainable code**, and building things that actually make sense — not just look good.  
+Beyond mobile development, I also work with **AI models, backend systems, and web technologies** to create intelligent applications that solve real problems.
 
----
-
-## 🚀 What I’m Building  
-
-- 🍼 **[MamaCare](https://mamacare-ai-app.netlify.app/)** → AI-powered maternal health platform.  
-- 📚 **Revival Shelf** → a digital library for exploring and sharing faith-based classics.  
-- 💻 **Clicamp** → learn the **command line** interactively (web + mobile).  
-- 🧠 **CppCamp** → a project-driven web & mobile learning experience for **C++** learners.  
-
-> 🔗 See more on [**GitHub @tejHacks**](https://github.com/tejHacks)
+I believe great software should **scale, teach, heal, and empower people**.
 
 ---
 
-## 🧰 Tech Stack  
+## 🚀 What I Build
 
-### 💡 Frontend & Mobile  
-**React** • **Next.js** • **TypeScript** • **React Native** • **Tailwind CSS**
+I build software across three main areas:
 
-### ⚙️ Backend  
-**Node.js/Express** • **PHP/Laravel** *(for fun)* • **MySQL/PostgreSQL**
+### 📱 Mobile Applications
+Cross-platform apps using **React Native**, focusing on performance, architecture, and long-term maintainability.
 
-### 🐧 Scripting & DevOps  
-**Linux/Bash** • **Python (automation)** • **Docker** • **NGINX**
+### 🤖 AI-Powered Applications
+Applications that integrate **machine learning models and intelligent systems** to improve decision making and automation.
 
-### 🧭 Core Principles  
-Clean Code • Scalable Design • Accessibility • Consistent UI/UX • Security Best Practices  
-
----
-
-## 🧠 What I’m Improving Daily  
-
-- Building **cross-platform experiences** (React Native + Next.js).  
-- Mastering **TypeScript design patterns**.  
-- Writing cleaner, faster, testable code.  
-- Sharpening problem-solving with **C++ and systems thinking**.  
-- Developing **better daily habits** — consistency over chaos.  
+### 🌐 Supporting Web Systems
+APIs, dashboards, and web platforms that power mobile apps.
 
 ---
 
-## 💬 Ask Me About  
+## 🧠 Current Projects
 
-- 🖥️ Full-stack development (React + Node + Laravel)  
-- 📱 Mobile development (React Native)  
-- 🧩 Design systems & API integrations  
-- 🧠 Learning efficiently and building dev habits  
-- ✍🏽 Tech writing & open-source collaboration  
+- 🍼 **MamaCare**  
+  AI-powered maternal health platform supporting mothers with accessible medical insights.
 
----
+- 💻 **CliCamp**  
+  Interactive platform for learning the **Linux command line** through practical exercises.
 
-## 📫 Reach Me  
+- 📚 **Revival Shelf**  
+  Digital platform for exploring and preserving timeless Christian literature.
 
-- 📧 [olateju202@gmail.com](mailto:olateju202@gmail.com)  
-- 🌐 Portfolio: [tejuthedev.vercel.app](https://tejs-portfolio.vercel.app)  
-- 🐦 Twitter: [@OlatejuOlamid10](https://x.com/OlatejuOlamid10)  
-- 📝 Medium: [@olateju202](https://medium.com/@olateju202)  
+- 🧠 **CppCamp**  
+  A project-based platform designed to help developers learn **C++ through real applications**.
 
 ---
 
-## 🌐 Connect With Me  
+## 🧰 Tech Stack
+
+### 📱 Mobile
+React Native • TypeScript • Expo • Native APIs
+
+### 🤖 AI / ML
+Python • Machine Learning Models • AI Integrations
+
+### ⚙️ Backend
+Node.js • Express • REST APIs • PostgreSQL • MySQL
+
+### 🌐 Web
+React • Next.js • Tailwind CSS
+
+### 🐧 Systems & Dev Tools
+Linux • Bash • Docker • Git • NGINX
+
+---
+
+## 🧠 What I'm Currently Improving
+
+- Advanced **React Native architecture**
+- **Cross-platform mobile performance optimization**
+- **AI + mobile integration**
+- Backend systems for mobile applications
+- Stronger **system design thinking**
+
+---
+
+## 📫 Reach Me
+
+📧 **Email**  
+olateju202@gmail.com
+
+🌐 **Portfolio**  
+https://tejuthedev.vercel.app
+
+🐦 **Twitter / X**  
+https://x.com/OlatejuOlamid10
+
+📝 **Medium**  
+https://medium.com/@olateju202
+
+---
+
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olateju-olamide-22314a292/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/tejHacks)  
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@olateju202)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/OlatejuOlamid10)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/OlatejuOlamid10)
 
 ---
 
-## ✨ Fun Fact  
+## ✨ Philosophy
 
-I see code as **art with purpose** — it’s not about typing faster, but thinking deeper.  
-When I’m not coding, I’m **playing chess**, **reading history**, or **rebuilding ideas from scratch** — one line at a time.  
+I see software as **engineering with purpose**.
+
+Code should not just work —  
+it should **scale, teach, and improve people's lives**.
+
+When I'm not coding, I'm usually **reading history, studying systems, or rebuilding ideas from scratch.**
