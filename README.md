@@ -77,7 +77,7 @@ Linux • Bash • Docker • Git • NGINX
 olateju202@gmail.com
 
 🌐 **Portfolio**  
-https://tejs-portfolio.vercel.app
+https://tejuthedev.vercel.app/
 
 🐦 **Twitter / X**  
 https://x.com/OlatejuOlamid10
