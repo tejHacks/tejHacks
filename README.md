@@ -14,19 +14,15 @@ Building thoughtful mobile products at the intersection of **engineering, interf
 
 I'm **Olateju Olamide**, a Mobile Engineer focused on building modern, useful, and maintainable mobile applications.
 
-My primary stack is **React Native, TypeScript, and Expo**. I care deeply about the relationship between engineering and experience — not just whether an application works, but whether it feels intentional, understandable, responsive, and worth coming back to.
+My primary stack is **React Native, TypeScript, and Expo**. I care about both engineering and experience — building applications that are reliable, responsive, understandable, and enjoyable to use.
 
-I've built across several different problem spaces: **faith, education, healthcare, language, productivity, audio, and fintech**.
+I've built across **faith, education, healthcare, language, productivity, audio, and fintech**, learning each problem from the ground up and turning ideas into working products.
 
-That range is deliberate.
+Beyond mobile, I work with **backend systems, AI/ML, web technologies, Linux, and developer tooling**.
 
-I like learning a problem from the ground up, understanding the systems behind it, building the first version, discovering where it breaks, and improving it until the product starts to feel real.
+I don't just want to write more code.
 
-Beyond mobile engineering, I work with **backend systems, AI/ML, web technologies, Linux, and developer tooling**, giving me a broader understanding of the systems that support the applications I build.
-
-I don't want to simply write more code.
-
-I want to build things that are **useful, understandable, resilient, and meaningful**.
+I want to build things that are **useful, resilient, and meaningful**.
 
 ## What I'm Building
 
@@ -34,73 +30,81 @@ I want to build things that are **useful, understandable, resilient, and meaning
 
 **Faith · Prayer · Spiritual Discipline**
 
-A prayer companion designed to help believers turn good intentions into consistent spiritual practice.
+A prayer companion built to help believers turn good intentions into consistent spiritual practice through prayer plans, reminders, fasting, journaling, testimonies, and reflection.
 
-Kairos explores the intersection of **spiritual discipline, reminders, intentionality, and mobile experience**, with a focus on making prayer a more deliberate part of everyday life.
-
-**Status:** Live Soon
+**Status:** Live Soon · [Source Code](https://github.com/tejHacks/kairos-mobile-app)
 
 ### 🌿 Hagah
 
-**Faith · KJV Scripture · Meditation · Declarations · Spiritual Warfare**
+**Faith · Scripture · Meditation · Declarations**
 
-Hagah is a **Scripture meditation, declaration, and spiritual-warfare application** built around the **King James Version (KJV)**.
+A Scripture meditation and declaration app built around the **King James Version (KJV)** and Strong's Concordance.
 
-The idea is simple: don't just read Scripture — **speak it, meditate on it, remember it, and use it as part of your daily spiritual practice.**
+Hagah helps users speak, study, remember, and repeatedly engage with Scripture through declarations, meditation, reminders, text-to-speech, and shareable content.
 
-Hagah brings together Scripture, meditation, declarations, reminders, and a focused mobile experience designed for repeated daily use.
-
-**Status:** Available on Google Play
+**Status:** Available on Google Play · [Google Play](https://play.google.com/store/apps/details?id=com.olateju.hagahapp) · [Source Code](https://github.com/tejHacks/hagahmobileapp)
 
 ### 🗣️ YorùbáVerse
 
 **Language · Culture · Pronunciation · Audio**
 
-A tone-first Yorùbá learning experience designed around **pronunciation, repetition, vocabulary, and conversation**.
+A tone-first Yorùbá learning experience focused on pronunciation, vocabulary, conversation, native-speaker audio, and repetition.
 
-YorùbáVerse explores how mobile technology and audio can make language learning more engaging while preserving the details that make Yorùbá unique.
+The goal is to help learners **hear, pronounce, understand, and use** Yorùbá — not simply translate it.
 
-The goal isn't simply to translate words.
-
-It is to help people **hear them, pronounce them, understand them, and eventually use them.**
-
-**Status:** In Development
+**Status:** In Development · [Source Code](https://github.com/tejHacks/Yoruba-verse)
 
 ### 📖 Scribe
 
-**Faith · Bible Study · Knowledge Management**
+**Faith · Study · Knowledge**
 
-Scribe is a Bible study and sermon note-taking workspace designed to bring **Scripture, notes, references, and personal study** into one focused environment.
+A Bible study and sermon note-taking workspace bringing Scripture, study resources, search, quizzes, and personal notes into one focused environment.
 
-It explores the idea of treating Bible study not simply as reading, but as a structured process of **learning, recording, connecting, and remembering**.
+**Status:** In Development · [Source Code](https://github.com/tejHacks/scribe-mobile-app)
+
+### 🎙️ SmoothSpeex
+
+**AI · Audio · Productivity**
+
+An AI-powered audio experiment exploring **speaker diarization, transcription, timestamps, and structured meeting information**.
+
+**Status:** Prototype · [Source Code](https://github.com/tejHacks/SmoothSpeex)
+
+### 🧠 JaundX
+
+**Healthcare · Computer Vision · On-device AI**
+
+An AI-assisted mobile healthcare prototype exploring computer vision and on-device machine learning for neonatal jaundice screening.
+
+**Status:** Prototype
+
+### 💳 SplitIt!!
+
+**Fintech · Payments · Group Commerce**
+
+A group cost-sharing concept designed around making shared purchases and payment settlement simpler.
 
 **Status:** In Development
 
 ### ✨ FaithQuotes
 
-**Faith · Devotionals · Content · Sharing**
+**Faith · Content · Sharing**
 
-A lightweight devotional experience built around **daily Scripture-inspired quotes, reminders, and sharing**.
+A lightweight devotional app built around daily quotes, reminders, visual cards, and easy sharing.
 
-FaithQuotes focuses on simplicity: small pieces of meaningful content that can become part of someone's daily routine.
+**Status:** Available · [Google Play](https://play.google.com/store/apps/details?id=com.faithquotes) · [Source Code](https://github.com/tejHacks/christian-quotes-mobile-app)
 
-**Status:** Available
+### 🐧 TerminalMaster
 
-### 🎙️ SmoothSpeex
+**Education · Linux · Gamification**
 
-**AI · Audio · Speaker Diarization · Productivity**
+A practical Linux learning environment combining command references, quizzes, challenges, progress tracking, and spaced repetition.
 
-An intelligent meeting recorder exploring how **AI-powered audio processing** can transform conversations into useful, structured information.
-
-SmoothSpeex explores areas such as **speech processing, speaker diarization, transcription, and structured meeting notes**.
-
-It is one of my experiments at the intersection of **AI and mobile productivity**.
-
-**Status:** Prototype
+**Status:** Prototype · [Source Code](https://github.com/tejHacks/linux-commands-mobile-app)
 
 ## Engineering Focus
 
-### 📱 Mobile Engineering
+### 📱 Mobile
 
 * React Native
 * TypeScript
@@ -109,9 +113,9 @@ It is one of my experiments at the intersection of **AI and mobile productivity*
 * Mobile architecture
 * State management
 * Performance optimization
-* Offline-first thinking
-* Mobile UI systems
-* Animations and micro-interactions
+* Offline-first applications
+* UI systems
+* Animations
 
 ### ⚙️ Backend & Systems
 
@@ -121,7 +125,6 @@ It is one of my experiments at the intersection of **AI and mobile productivity*
 * PostgreSQL
 * MySQL
 * Authentication
-* API architecture
 * Database design
 * Cloud deployment
 
@@ -133,7 +136,7 @@ It is one of my experiments at the intersection of **AI and mobile productivity*
 * Speech Processing
 * Speaker Diarization
 * AI-powered mobile experiences
-* On-device AI exploration
+* On-device AI
 
 ### 🌐 Web
 
@@ -142,7 +145,7 @@ It is one of my experiments at the intersection of **AI and mobile productivity*
 * TypeScript
 * Tailwind CSS
 
-### 🐧 Systems & Developer Tools
+### 🐧 Tools
 
 * Linux
 * Bash
@@ -153,77 +156,62 @@ It is one of my experiments at the intersection of **AI and mobile productivity*
 
 ## How I Build
 
-I tend to approach projects through a simple cycle:
-
 **Understand → Design → Build → Break → Fix → Improve → Ship**
 
-I enjoy the part most people don't see.
+I enjoy the parts of engineering that happen beneath the surface:
 
-The debugging.
+Architecture decisions.
 
-The architecture decisions.
+Debugging.
+
+Performance problems.
+
+Edge cases.
 
 The awkward first implementation.
 
-The performance problem that makes no sense.
-
-The UI that looks fine until you actually use it.
-
-The feature that sounded simple until the edge cases arrived.
+The UI that looks fine until someone actually uses it.
 
 That's where engineering happens.
 
 ## What I'm Learning
 
-I'm continuously going deeper into:
-
 * Advanced React Native architecture
 * Mobile performance engineering
 * Native platform integration
-* Scalable backend architecture
+* Backend architecture
 * System design
 * AI + mobile integration
-* Speech and computer vision systems
+* Speech and computer vision
 * Database and data modeling
 * Interface design
-* Developer tooling
 * Production engineering
 
 ## A Few Things I Believe
 
 > Good software solves a real problem.
 
-> A beautiful interface means very little if the underlying system is fragile.
+> Beautiful interfaces mean little if the underlying system is fragile.
 
 > Engineering is as much about understanding constraints as it is about writing code.
 
 > The first version doesn't have to be perfect. It has to teach you something.
 
-> Build it. Break it. Understand why. Fix it. Then build it better.
-
-## Beyond the Code
-
-When I'm not building software, I'm usually reading, studying systems, exploring ideas, or trying to understand how things work beneath the surface.
-
-I'm particularly interested in **history, technology, systems, faith, and the way ideas become things people can actually use.**
-
-There is always another problem worth understanding.
-
-And usually, another thing worth building.
+> Build it. Break it. Understand why. Fix it. Build it better.
 
 ## Connect
 
 📧 **Email:** [olateju202@gmail.com](mailto:olateju202@gmail.com)
 
-🌐 **Portfolio:** [https://tejusportfolio.vercel.app/] (View My Portfolio)
+🌐 **Portfolio:** [tejusportfolio.vercel.app](https://tejusportfolio.vercel.app/)
 
-💼 **LinkedIn:** linkedin.com/in/olateju-olamide-22314a292
+💼 **LinkedIn:** [linkedin.com/in/olateju-olamide-22314a292](https://linkedin.com/in/olateju-olamide-22314a292)
 
-🐙 **GitHub:** github.com/tejHacks
+🐙 **GitHub:** [github.com/tejHacks](https://github.com/tejHacks)
 
-𝕏 **Twitter / X:** x.com/OlatejuOlamid10
+𝕏 **Twitter / X:** [x.com/OlatejuOlamid10](https://x.com/OlatejuOlamid10)
 
-📝 **Medium:** medium.com/@olateju202
+📝 **Medium:** [medium.com/@olateju202](https://medium.com/@olateju202)
 
 <div align="center">
 
